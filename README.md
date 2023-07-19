@@ -43,3 +43,6 @@ DESTROY!!!!!!!!!!!!!
 You may want to add additional installs / scripts to these vms / consider scalesets / domain join etc....
 
 Good luck
+
+REF
+#https://gist.github.com/MaxMelcher/fa10b8bd7f1e39910c0402576ccf1b1f
