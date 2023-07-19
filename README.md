@@ -45,7 +45,7 @@ You may want to add additional installs / scripts to these vms / consider scales
 Good luck
 
 References below have helped in making this example 
-*[IE](https://gist.github.com/MaxMelcher/fa10b8bd7f1e39910c0402576ccf1b1f)
+* [IE](https://gist.github.com/MaxMelcher/fa10b8bd7f1e39910c0402576ccf1b1f)
 * [Linux Machine Creation](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform)
 * [Windows VM Creation](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-terraform)
 * [Keyvault Creation](https://learn.microsoft.com/en-us/azure/key-vault/keys/quick-create-terraform?tabs=azure-cli)
