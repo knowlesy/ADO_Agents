@@ -13,7 +13,8 @@ This will create a linux and windows build agent within a single resource group 
 * AZ Cli or AZ PS Module 
 * Azure Environment 
 
-Steps
+## Instructions
+
 * Clone this repository 
 * Ensure you have terraform installed
 
