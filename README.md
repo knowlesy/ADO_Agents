@@ -5,6 +5,14 @@ ADO = Azure Devops
 
 This will create a linux and windows build agent within a single resource group and join them to your ADO Agent Pool this is helpful if you want to do custom builds within ADO. 
 
+## Pre-Req's
+
+* Azure Devops Organization and Project for testing (covered below)
+* terraform installed locally
+* VSCode with TF Extension and Git
+* AZ Cli or AZ PS Module 
+* Azure Environment 
+
 Steps
 * Clone this repository 
 * Ensure you have terraform installed
